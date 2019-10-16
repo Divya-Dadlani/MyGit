@@ -2,10 +2,12 @@
 
 class HelloGit{
 
+public void myMethod(){
+	Sysout("this id my method");
+	}
+
 public static void main(String args[]){
 
 	System.out.println("This is a java application ...***...welcome to git");
-
-
 	}
 }
